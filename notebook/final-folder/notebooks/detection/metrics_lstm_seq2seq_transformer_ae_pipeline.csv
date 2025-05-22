@@ -1,0 +1,2 @@
+Model,Threshold_Method,Threshold_Value,Forecast_RMSE,Forecast_MAE,Anomaly_Precision,Anomaly_Recall,Anomaly_F1
+LSTM Seq2Seq + Transformer AE,ROC Optimal,7.923825e-05,0.146158835758698,0.08975409716367722,0.07373271889400922,0.9696969696969697,0.13704496788008566
