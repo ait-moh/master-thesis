@@ -1,2 +1,0 @@
-Model,Precision,Recall,F1_Score,True_Positives,False_Positives,True_Negatives,False_Negatives,Anomaly_Count_True,Anomaly_Count_Predicted
-Transformer Autoencoder,0.08333333333333333,0.033602150537634407,0.04789272030651341,25,275,1981,719,744,300
