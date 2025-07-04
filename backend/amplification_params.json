@@ -1,0 +1,90 @@
+{
+  "520MX051D01.FIC0028.MEAS": {
+    "adjusted_ratio": 0.0,
+    "mean_val": 4.515408039093018
+  },
+  "520D007D02.TI0058.MEAS": {
+    "adjusted_ratio": 0.3493269347800139,
+    "mean_val": 126.84529113769531
+  },
+  "530R001D01.FI0043.MEAS": {
+    "adjusted_ratio": 4.171826289840277,
+    "mean_val": 2648.014892578125
+  },
+  "530E001D01.FIC0015.MEAS": {
+    "adjusted_ratio": 0.320069437370328,
+    "mean_val": 1210.2032470703125
+  },
+  "530R001D01.FIC0030.MEAS": {
+    "adjusted_ratio": 2.507963364026067,
+    "mean_val": 2575.571533203125
+  },
+  "530R001D01.FIC0047.MEAS": {
+    "adjusted_ratio": 6.0,
+    "mean_val": 309.6984558105469
+  },
+  "530C021D01.FIC0203.MEAS": {
+    "adjusted_ratio": 1.136383144446098,
+    "mean_val": 131.54783630371094
+  },
+  "530R001D02.FIC0230.MEAS": {
+    "adjusted_ratio": 0.01469161382654919,
+    "mean_val": 6.140600681304932
+  },
+  "530R002D02.LI0010.MEAS": {
+    "adjusted_ratio": 3.215019758755402,
+    "mean_val": 50.004825592041016
+  },
+  "530M102D01.LIC0011.MEAS": {
+    "adjusted_ratio": 1.7294320988517677,
+    "mean_val": 30.478464126586914
+  },
+  "530R002D02.PDI0148.MEAS": {
+    "adjusted_ratio": 6.0,
+    "mean_val": 820.029052734375
+  },
+  "530M105D01.PDIC0149.MEAS": {
+    "adjusted_ratio": 6.0,
+    "mean_val": 793.54931640625
+  },
+  "530F001D01.PIC0023.MEAS": {
+    "adjusted_ratio": 1.7836965349258548e-14,
+    "mean_val": 1.4840584993362427
+  },
+  "530R002D02.TI0037.MEAS": {
+    "adjusted_ratio": 3.417146477863257,
+    "mean_val": 724.4055786132812
+  },
+  "530F001D01.TIC0012.MEAS": {
+    "adjusted_ratio": 0.9806123045327438,
+    "mean_val": 147.41653442382812
+  },
+  "530M105D01.TIC0022.MEAS": {
+    "adjusted_ratio": 3.3544176431502826,
+    "mean_val": 682.6229858398438
+  },
+  "530UZ1099E01.TZI0068A.MEAS": {
+    "adjusted_ratio": 1.8105967377374883,
+    "mean_val": 153.96693420410156
+  },
+  "530M103D01.ZI2103A.MEAS": {
+    "adjusted_ratio": 2.3985460843755546,
+    "mean_val": 20.574731826782227
+  },
+  "530M104D01.ZI2104A.MEAS": {
+    "adjusted_ratio": 1.7223511111542347,
+    "mean_val": 18.764345169067383
+  },
+  "530M105D01.ZI2105A.MEAS": {
+    "adjusted_ratio": 1.9178287064867678,
+    "mean_val": 62.74480056762695
+  },
+  "535D005D01.LI0011.MEAS": {
+    "adjusted_ratio": 1.47269150920406,
+    "mean_val": 13.322614669799805
+  },
+  "535INT920D01.TI0046.MEAS": {
+    "adjusted_ratio": 2.4773186833540337,
+    "mean_val": 57.979042053222656
+  }
+}
