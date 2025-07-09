@@ -1,10 +1,10 @@
-# Master Thesis Project
+# Master Thesis Project(Readme file in maintenance)
 
 A full-stack application featuring a **frontend UI** and a **backend API** for time-series forecasting and anomaly detection using LSTM models.
 
 ---
 
-## 🧭 Table of Contents
+##  Table of Contents
 
 - [Overview](#overview)  
 - [Prerequisites](#prerequisites)  
